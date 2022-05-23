@@ -1,0 +1,20 @@
+nav {
+    background-color: #e83e8c;
+}
+
+footer {
+    background-color: #e83e8c;
+}
+
+#titulo {
+    font-size: 300%;
+}
+
+#containerS {
+    background-color: #17A2B8;
+}
+
+#divresolutor {
+    justify-content: flex-end;
+    width: 50%;
+}
